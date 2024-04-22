@@ -3,7 +3,7 @@
 ## Installation:
 Run the following commands in your terminal:
 
-    $ git clone  https://github.com/cr15h/blogapp.git
+    $ git clone  https://github.com/avyayah-vp/blog-app.git
     $ cd blogapp
     $ pip install -r requirements.txt
     $ python manage.py migrate
